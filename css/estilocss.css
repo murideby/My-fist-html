@@ -3,16 +3,14 @@
 body{
 	background:#FFF;
 	overflow-x: hidden;
-	
+	width:100%;
 }
 
  div#principal{
 	max-width: 40em; 
 	background:#FFFF00;
-	margin-left:auto;
-	margin-right:auto;
-	/* margin:-79px auto 0px auto; */
-	/* padding:10px;  */
+	margin:-79px auto 0px auto; 
+	padding:10px;  
 	
 }
 header#topo{  
